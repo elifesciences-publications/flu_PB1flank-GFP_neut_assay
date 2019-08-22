@@ -1,3 +1,6 @@
+### This code is associated with the paper from Lee et al., "Mapping person-to-person variation inviral mutations that escape polyclonalserum targeting influenza hemagglutinin". eLife, 2019. http://dx.doi.org/10.7554/eLife.49324
+
+
 # A fluorescence based neutralization assay for influenza virus
 
 ## Overview
